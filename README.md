@@ -11,6 +11,6 @@
 <img height="40px" src="https://user-images.githubusercontent.com/71086166/165985142-9bc39240-0d20-4bf5-8f3e-25cc150ddd7e.png" alt="Instagram">
 <img height="40px" src="https://user-images.githubusercontent.com/71086166/165985340-5a3427dd-e106-4270-8b09-d9dca6ce2ae3.png" alt="Jupyter">
 
+  
+  
 ![Snake animation](https://github.com/nicolegolas/nicolegolas/blob/output/github-contribution-grid-snake.svg)
-
-<hr/>
